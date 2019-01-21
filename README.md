@@ -13,9 +13,8 @@
   -5 Resistencia de 1k ohm (Si no tienen de 1k pueden variar el valor entre 100 ohm a 2.2 K omh)                                 
   -Protoboard                                                                                                                    
                                                                                                                                  
-*                                                                                                                                 
-                                                                                                                                  *
-                                                                                                             Facebook: ESociety 
-                                                                                                             GitHub: eSociety97 
+  Facebook: ESociety 
+  
+  GitHub: eSociety97 
                                                                                                                                 
-*                                                         #NuncaDejenDeCrear                                                      *
+                                 #NuncaDejenDeCrear                                                      
